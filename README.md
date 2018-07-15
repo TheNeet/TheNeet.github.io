@@ -1,5 +1,5 @@
 # Dian团队暑期实训作业
-- - -
+
 > ## 阶乘递归（源代码文件：factorial.sh）
 > ![](https://raw.githubusercontent.com/TheNeet/TheNeet.github.io/master/Picture/compression.png)
 
